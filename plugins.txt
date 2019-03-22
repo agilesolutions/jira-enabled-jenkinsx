@@ -1,0 +1,4 @@
+jira-steps:1.4.5
+jira-ext:0.7
+jira-trigger:0.6.3
+jira:3-0-5
